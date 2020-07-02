@@ -1,6 +1,7 @@
 # Covid-19-Website
 Angular Website for tracking COVID-19 Cases and showing Organization necessary details &amp; SOP's within.
 
-##Refer Image for altering the text in the Application
+# Screenshot for reference as per File Name.
 
-https://github.com/XebiaUpdates/Xebia-Covid-Website/blob/master/AA_File_Names_As_Per_User_Interface.PNG?raw=true
+![File_Names_As_Per_User_Interface](https://user-images.githubusercontent.com/67694005/86333220-3c735200-bc69-11ea-9a31-93439f689544.PNG)
+
