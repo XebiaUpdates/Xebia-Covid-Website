@@ -1,25 +1,21 @@
-
-•	You can use your elbows to press the buttons of the lifts and do not use your hands to open or close doors.
-•	Or you can avoid touching lift buttons or use a tissue to touch it. If you are taking the stairs, avoid touching the walls or railing.
-•	Welcome the new touchless taps to screening via infra-red thermometers.
-•	Wash your hands or sanitize them thoroughly if you have used   washrooms.
-•	Make sure there are not more than two-three people in the lift, else take the next one. While in the lift, do not face each other.
-•	Do not remove the face mask at any point. It is recommended that you do not use the same mask daily.
-•	Avoid using vending machines at all the cost. 
-•	Before beginning your day’s work, disinfect the desk and the laptop/desktop. As you sit, make sure you at leave at least a seat’s distance between you and your colleague.  
-•	Maintain social distancing when you interact with people. Avoid shaking hands. In case of a meeting, make sure there are not too many people in the room at a time so that you can maintain social distancing.
-•	If you have to touch a handle or a doorknob, sanitise your hands immediately.
-•	At lunchtime, wash your hands properly before you start eating. Eat at a distance from others.
-•	Prefer not to eat from outside.
-•	Sanitise your hands every now and then and ensure supremely precautious surroundings in   office washrooms.
-
-After coming home 
-•	When you come home, take a bath and put your clothes for washing separately and not with other clothes.
-•	Do not interact with anyone or touch anything else before taking a bath.
-•	You can also gargle and take steam after coming home
-•	Wash the face covering properly and use a fresh mask next day.
-•	Make sure you sanitize lunch bags
-•	Disinfect your mobile phone and other items such as laptop bag, lunch bag or anything that you took to office.
-•	Most importantly, avoid going to your workplace in case you feel sick or show some worrying symptoms.
-
-
+You can use your elbows to press the buttons of the lifts and do not use your hands to open or close doors.
+Or you can avoid touching lift buttons or use a tissue to touch it. If you are taking the stairs, avoid touching the walls or railing.
+Welcome the new touchless taps to screening via infra-red thermometers.
+Wash your hands or sanitize them thoroughly if you have used   washrooms.
+Make sure there are not more than two-three people in the lift, else take the next one. While in the lift, do not face each other.
+Do not remove the face mask at any point. It is recommended that you do not use the same mask daily.
+Avoid using vending machines at all the cost. 
+Before beginning your day’s work, disinfect the desk and the laptop/desktop. As you sit, make sure you at leave at least a seat’s distance between you and your colleague.  
+Maintain social distancing when you interact with people. Avoid shaking hands. In case of a meeting, make sure there are not too many people in the room at a time so that you can maintain social distancing.
+If you have to touch a handle or a doorknob, sanitise your hands immediately.
+At lunchtime, wash your hands properly before you start eating. Eat at a distance from others.
+Prefer not to eat from outside.
+Sanitise your hands every now and then and ensure supremely precautious surroundings in   office washrooms.
+<<-- After coming home -->> 
+When you come home, take a bath and put your clothes for washing separately and not with other clothes.
+Do not interact with anyone or touch anything else before taking a bath.
+You can also gargle and take steam after coming home
+Wash the face covering properly and use a fresh mask next day.
+Make sure you sanitize lunch bags
+Disinfect your mobile phone and other items such as laptop bag, lunch bag or anything that you took to office.
+Most importantly, avoid going to your workplace in case you feel sick or show some worrying symptoms.
